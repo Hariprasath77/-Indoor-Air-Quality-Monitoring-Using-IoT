@@ -1,1 +1,4 @@
 # -Indoor-Air-Quality-Monitoring-Using-IoT
+The system presented in this project is an advanced real time air quality reporting system supported with Internet Of things (IOT) architecture. Degrading air quality has been a matter of concern nowadays and real time monitoring of air quality helps us to keep a check on it. Greater air pollution indicates more dangerous air is for human health. The model presented here uses a combination of the ESP32
+software and hardware along with a Gas sensor -MQ135, MQ7 sensors which help in detecting gases like NO2, CO, Ammonia, and Sulphide. The circuit finally displays the PPM values as well as Air Quality level of gases on an Android application which fetches data from sensor through IoT.
+Keywords: Internet of Things, Air quality, dependability, gas sensors, monitoring system
